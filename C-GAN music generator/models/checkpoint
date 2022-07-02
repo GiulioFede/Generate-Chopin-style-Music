@@ -1,0 +1,2 @@
+model_checkpoint_path: "GAN_epochs_119_175_v5"
+all_model_checkpoint_paths: "GAN_epochs_119_175_v5"
